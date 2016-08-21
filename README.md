@@ -16,6 +16,7 @@ puts "Hello, World!"
     ```javascript
     x => 42;
     console.log(42);
+    ```
 
  2. A concatenation of two programs `P` and `Q` is the simple appending of the source code of `Q` to the end of `P`, and is represented as `P + Q`, or `PQ` when clear.
 
